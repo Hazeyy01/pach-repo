@@ -295,7 +295,7 @@
 		}
 
 		let currentUrl = window.location.href;
-		let currentPath = currentUrl.replace('http://127.0.0.1:8000', '');
+		let currentPath = currentUrl.replace('https://pach-system.azurewebsites.net', '');
 
 		$('.sidebar a').each(function() {
 			if ($(this).attr('href') === currentPath) {
