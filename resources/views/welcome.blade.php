@@ -27,7 +27,7 @@
 		<div class="col-lg-9 col-12 p-5">
 			<h2>Welcome to Parenting Awareness and Child Health Monitoring System !</h2>
 			<br>
-			<h4 style="text-align: justify;">Welcome to Parenting Awarenes and Child Healht Monitoring System, your all-in-one parenting companion! Navigate the joys and challenges of parenthood with our cutting-edge system. Empowering you with valuable parenting content and a robust child health monitoring tool, we help you stay informed about essential milestones and seamlessly track your little one's development. PACH system is here to nurture the health and well-being of your precious one. Let'sembark on this incredible journey together!</h4>
+			<h4 style="text-align: justify;">Welcome to Parenting Awarenes and Child Health Monitoring System, your all-in-one parenting companion! Navigate the joys and challenges of parenthood with our cutting-edge system. Empowering you with valuable parenting content and a robust child health monitoring tool, we help you stay informed about essential milestones and seamlessly track your little one's development. PACH system is here to nurture the health and well-being of your precious one. Let's embark on this incredible journey together!</h4>
 		</div>
 		<div class="col-lg-3 col-12">
 			<img src="/image/INDEX_WP" width="300">
