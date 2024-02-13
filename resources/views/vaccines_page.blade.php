@@ -18,7 +18,7 @@
 				Vaccine
 			</div>
 		</div>
-		<div class="p-2 border-bottom text-secondary">"Kindly select the '+' icon to input new vaccine details."</div>
+		<div class="p-2 border-bottom text-secondary">"Kindly click the '+' icon to input new vaccine details."</div>
 		<div class="p-2">
 			<div class="card w-100">
 				<div class="card-header">

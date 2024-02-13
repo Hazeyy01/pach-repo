@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="p-2 border-bottom text-secondary">
-			"Please press the '+' icon to add information or advice."</div>
+			"Please click the '+' icon to add information or advice."</div>
 		<div class="p-2">
 			<div class="card w-100">
 				<div class="card-header">

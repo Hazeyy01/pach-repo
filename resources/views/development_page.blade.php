@@ -13,7 +13,7 @@
 				Development Milestones
 			</div>
 		</div>
-		<div class="p-2 border-bottom text-secondary">"Kindly press the 'Question' button to view inquiries pertaining to child development."</div>
+		<div class="p-2 border-bottom text-secondary">"Kindly click the 'Question' button to view inquiries pertaining to child development."</div>
 		<div class="p-2">
 			<div class="card w-100">
 				<div class="card-header">

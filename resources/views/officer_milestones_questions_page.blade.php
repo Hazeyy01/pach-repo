@@ -18,7 +18,7 @@
 		 Question
 			</div>
 		</div>
-		<div class="p-2 border-bottom text-secondary">"Please select the '+' icon to add information ."</div>
+		<div class="p-2 border-bottom text-secondary">"Please click the '+' icon to add information ."</div>
 		<div class="p-2">
 			<div class="card w-100">
 				<div class="card-header">

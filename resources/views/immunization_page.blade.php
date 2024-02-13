@@ -20,7 +20,7 @@
 					Mandatory Vaccine List
 				</div>
 				<ul class="list-group list-group-flush overflow-auto">
-					<li class="list-group-item p-2 text-secondary">Vaksin mandatori : Sila tandakan kotak di bawah untuk mengemaskini senarai vaksin yang telah diambil oleh anak anda.</li>
+					<li class="list-group-item p-2 text-secondary">Please check the box below to update the list of vaccinations that your child has received.</li>
 					<li class="list-group-item p-2">
 						<table id="table"></table>
 					</li>
@@ -37,7 +37,7 @@
 								<i class="fa fa-plus" aria-hidden="true"></i> | Add
 							</button>
 						</div>
-						<div style="display: inline-block" class="text-secondary">Lain-lain vaksin: Sila tekan icon tambah "+" untuk kemaskini maklumat pengambilan vaksin yang tidak tersenarai di jadual diatas.</div>
+						<div style="display: inline-block" class="text-secondary">Please click the add icon "+" to update information on vaccinations that are not listed in the table above.</div>
 					</li>
 					<li class="list-group-item p-2">
 						<table id="datatable" class="table table-striped compact" style="width:100%">

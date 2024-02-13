@@ -18,7 +18,7 @@
 				Growth
 			</div>
 		</div>
-		<div class="p-2 border-bottom text-secondary">"Kindly press the 'plus' icon to update information regarding your child's growth."</div>
+		<div class="p-2 border-bottom text-secondary">"Kindly click the 'plus' icon to update information regarding your child's growth."</div>
 		<div class="w-100 p-2">
 			<div class="card">
 				<div class="card-header">

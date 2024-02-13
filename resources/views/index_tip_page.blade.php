@@ -7,11 +7,12 @@
 	@include('section.header')
 </head>
 <body>
-  <div class="row">
-    <div class="col-lg-6 col-12 p-5">
+  <div class="row g-0">
+    <div class="col-lg-1 col-12">&nbsp;</div>
+    <div class="col-lg-5 col-12">
       <img id="image_id" class="d-none rounded-3" style="width: 100%; height: auto;" alt="tip image" title="tip_image" />
     </div>
-    <div class="col-lg-6 col-12 align-self-center">
+    <div class="col-lg-5 col-12 align-self-center p-4">
       <h2 class="mt-3" style="font-family: 'Gravitas One', serif;" id="title_id"></h2>
       <h4 id="category_id"></h4>
       <h6 id="sub_category_id"></h6>
@@ -36,12 +37,17 @@
       </div>
     </div>
     <div class="col-3"></div> -->
+    <div class="col-lg-1 col-12">&nbsp;</div>
   </div>
-  <div class="px-5">
-    <div id="content_id"></div>
-  </div>
-  <div class="p-5">
-    <iframe id="video_id" class="d-none" style="width: 100%; height: auto; aspect-ratio: 16 / 9;"></iframe>
+  <div class="row g-0">
+    <div class="col-lg-1 col-12">&nbsp;</div>
+    <div class="col-lg-10 col-12">
+      <div class="w-100 p-4">
+        <span id="content_id"></span>
+      </div>
+      <iframe id="video_id" class="d-none" style="width: 100%; height: auto; aspect-ratio: 16 / 9;"></iframe>
+    </div>
+    <div class="col-lg-1 col-12">&nbsp;</div>
   </div>
   <script>
     function onPageLoad() {
