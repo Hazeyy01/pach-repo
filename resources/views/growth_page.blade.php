@@ -277,6 +277,7 @@
 				let growthArray = [growth.growth_age_taken, +growth.growth_height];
 				growthArrays.push(growthArray);
 			}
+			growthArrays.sort((a, b) => a[0].replace(' Month', '') - b[0].replace(' Month', ''));
 
       function drawChart () {
 				$("height_chart_parent_id").empty();
@@ -312,6 +313,7 @@
 				let growthArray = [growth.growth_age_taken, +growth.growth_weight];
 				growthArrays.push(growthArray);
 			}
+			growthArrays.sort((a, b) => a[0].replace(' Month', '') - b[0].replace(' Month', ''));
 
 			function drawChart () {
 				$("weight_chart_parent_id").empty();
@@ -349,6 +351,7 @@
 				let growthArray = [growth.growth_age_taken, +growth.growth_bmi];
 				growthArrays.push(growthArray);
 			}
+			growthArrays.sort((a, b) => a[0].replace(' Month', '') - b[0].replace(' Month', ''));
 
       function drawStuff() {
         let data = new google.visualization.arrayToDataTable(growthArrays);
